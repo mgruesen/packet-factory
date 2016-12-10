@@ -1,0 +1,3 @@
+[submodule "extern/farmhash"]
+	path = extern/farmhash
+	url = git@github.com:google/farmhash
